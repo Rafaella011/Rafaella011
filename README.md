@@ -1,16 +1,17 @@
-### Hi there 👋
+### boas vindas ao meu perfil😍
 
-<!--
-**Rafaella011/Rafaella011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rafaella 
 
-Here are some ideas to get you started:
+-estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo
+ig: just.me.rafaa
+
+
+
+
+![](https://media.tenor.com/wl0InsCKOYcAAAAM/lalisa-lisa.gif)
+
+![](https://media.tenor.com/M3BSfZjACbsAAAAM/blackpink-lisa.gif)
